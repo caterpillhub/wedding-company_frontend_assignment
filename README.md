@@ -1,12 +1,3 @@
-Here is your **fully structured, clean, ready-to-paste `README.md`** with **proper formatting**, **correct code blocks**, **correct section spacing**, and **professional-grade structure**.
-
----
-
-# ✅ **FINAL README.md (Perfectly Structured)**
-
-### *Copy → Paste → Done*
-
-````md
 # 🎉 Wedding Company Quiz App  
 ### _Interactive quiz built with Next.js, TypeScript, TailwindCSS & Framer Motion_
 
@@ -54,10 +45,8 @@ and a smooth user experience powered by **Next.js App Router** and **Framer Moti
 
 ## 📸 Screenshots  
 
-```md
 [Quiz Screen](./public/readme/quiz-screen.png)
 [Results Screen](./public/readme/results-screen.png)
-````
 
 ---
 
