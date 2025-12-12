@@ -57,8 +57,8 @@ It features a polished Figma-accurate UI, animated transitions, a playful mascot
 ### **Clone the project**
 
 ```bash
-git clone https://github.com/your-username/wedding-company-quiz.git
-cd wedding-company-quiz
+git clone https://github.com/caterpillhub/wedding-company_frontend_assignment
+cd wedding-company_frontend_assignment
 ```
 
 ### **Install dependencies**
@@ -116,4 +116,5 @@ Deployed link: **https://wedding-company-frontend-assignment-psi.vercel.app/**
 * Designed per the Wedding Company Assignment specification
 * Built using Next.js, TypeScript, TailwindCSS, and Framer Motion
 * Includes custom UI polishing & animated mascot
+
 
