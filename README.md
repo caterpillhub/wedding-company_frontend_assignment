@@ -96,7 +96,7 @@ npm start
 vercel
 ```
 
-Deployment completes in seconds.
+Deployed link: **https://wedding-company-frontend-assignment-psi.vercel.app/**
 
 ---
 
@@ -116,3 +116,4 @@ Deployment completes in seconds.
 * Designed per the Wedding Company Assignment specification
 * Built using Next.js, TypeScript, TailwindCSS, and Framer Motion
 * Includes custom UI polishing & animated mascot
+
