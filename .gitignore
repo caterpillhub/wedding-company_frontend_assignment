@@ -1,0 +1,65 @@
+# -------------------------------
+# Next.js build output
+# -------------------------------
+.next/
+out/
+dist/
+
+# -------------------------------
+# Node modules & package managers
+# -------------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# -------------------------------
+# Environment variables
+# -------------------------------
+.env
+.env*.local
+*.env
+
+# -------------------------------
+# OS / Editor / IDE files
+# -------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------------
+# TypeScript build files
+# -------------------------------
+*.tsbuildinfo
+
+# -------------------------------
+# Logs
+# -------------------------------
+logs/
+*.log
+*.log.*
+debug.log
+
+# -------------------------------
+# Misc caches
+# -------------------------------
+.cache/
+.next/cache/
+.eslintcache
+.stylelintcache
+turbo/
+
+# -------------------------------
+# Lock files (if switching PM)
+# -------------------------------
+package-lock.json
+yarn.lock
+
+# Keep only ONE of the lock files if needed:
+# If using pnpm, ignore the others
+# pnpm-lock.yaml (KEEP this one)
