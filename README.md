@@ -1,12 +1,6 @@
 # 🎉 Wedding Company Quiz App  
 ### _Interactive quiz built with Next.js, TypeScript, TailwindCSS & Framer Motion_
 
-<p align="center">
-  <img src="./public/icon-light-32x32.png" width="80" alt="App Logo"/>
-</p>
-
----
-
 ## 🌟 Overview
 
 This project is a clean, responsive, and interactive **Quiz Application** created for the **Wedding Company Assignment**.
@@ -42,9 +36,8 @@ It features a polished Figma-accurate UI, animated transitions, a playful mascot
 ---
 
 ## 📸 Screenshots  
-
-[Quiz Screen](./public/readme/quiz-screen.png)
-[Results Screen](./public/readme/results-screen.png)
+<img width="1917" height="995" alt="quiz-screen" src="https://github.com/user-attachments/assets/283bbd24-d72e-413d-a46a-2c1d08bac575" />
+<img width="1919" height="1001" alt="result-screen" src="https://github.com/user-attachments/assets/bcc91ad7-0838-494b-8f34-3d77a6df546b" />
 
 ---
 
