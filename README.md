@@ -9,11 +9,9 @@
 
 ## 🌟 Overview
 
-This project is a clean, responsive, and interactive **Quiz Application** created for the  
-**Wedding Company Assignment**.
+This project is a clean, responsive, and interactive **Quiz Application** created for the **Wedding Company Assignment**.
 
-It features a polished Figma-accurate UI, animated transitions, a playful mascot,  
-and a smooth user experience powered by **Next.js App Router** and **Framer Motion**.
+It features a polished Figma-accurate UI, animated transitions, a playful mascot, and a smooth user experience powered by **Next.js App Router** and **Framer Motion**.
 
 ---
 
